@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Header from './components/header/header'
 import Main from './main'
+import Footer from './components/footer/footer'
 import 'jquery';
 
 class App extends Component {
@@ -8,7 +9,10 @@ class App extends Component {
     return (
       <div>
         <Header />
-        <Main />
+        <body>
+          <Main />
+          <Footer/>
+          </body>
       </div>
     );
   }

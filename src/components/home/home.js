@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from 'react-dom';
 import { Row, Col } from 'react-materialize';
 import '../home/investimento.jsx';
 

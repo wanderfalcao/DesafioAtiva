@@ -62,4 +62,23 @@ tbody tr:hover{
   font: 400 18px Flexo,Arial,Helvetica,sans-serif;
   color: #63666a;
 }
-
+.footer{
+  background-color: #212325;
+  display: flex;
+  flex: 1 0 auto;
+  min-height: 100px;
+  max-height: 200px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  resize: both;
+  overflow: auto;
+}
+.imagemFooter{
+  margin-left: 10%;
+}
+.linksFooter li a{
+  color:#bdbdbd;
+}

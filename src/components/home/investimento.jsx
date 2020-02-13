@@ -1,5 +1,4 @@
 import $ from 'jquery';
-import Modal from'../home/modal';
 $( document ).ready(function() {
     $.getJSON( "https://api.npoint.io/ea71bed4c364fa0430db", function( i ) {
         var tam = Object.keys( i ).length;
