@@ -23,7 +23,7 @@
     "react-json-table": "^0.1.1",
     "react-materialize": "^3.5.9",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.3.1",
+    "react-scripts": "5.0.1",
     "react-shopping-cart": "^1.8.32",
     "reactjs-popup": "^1.5.0"
   },
@@ -58,7 +58,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^9.39.1",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-react": "^7.18.3"
   }
